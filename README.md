@@ -3,7 +3,7 @@ Yo buddies! My name is **Destiny**. My first goal of writing codes was to create
 
 Well i do love **PHP** and have been writing in it for a long time now (**2019**) But where PHP is insufficient i use **PYTHON AND JS**
 
-Currenctly my best OS is **KALI Linux**
+Currently my best OS is **KALI Linux**
 
 Well i'm just a student , i literally do not have any software related education but planning on getting one. i learnt everything from(`Sololearn`,`php.net`,`w3schools`,`Udemy`)
 
