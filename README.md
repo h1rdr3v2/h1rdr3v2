@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi Welcome to my profile!! 👋 
+Yo buddies! My name is **Destiny**. My first goal of writing codes was to create **MAD AI's**
 
-<!--
-**h1rdr3v2/h1rdr3v2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well i do love **PHP** and have been writing in it for a long time now (**2019**) But where PHP is insufficient i use **PYTHON AND JS**
 
-Here are some ideas to get you started:
+Currenctly my best OS is **KALI Linux**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Well i'm just a student , i literally do not have any software related education but planning on getting one. i learnt everything from(`Sololearn`,`php.net`,`w3schools`,`Udemy`)
+
+📫 How to reach me: [Telegram](https://t.me/h1rd3v2)
+
+Questions | Answer
+--- | ---
+**Editor** | `Visual studio code`
+**Programs i write** | `CLI,Web`
+**Languages Known** | `HTML,CSS,JS,PHP,PYTHON`
+**I'm Learning** | `None currenctly`
