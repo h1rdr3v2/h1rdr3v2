@@ -7,7 +7,14 @@ Currently my best OS is **KALI Linux**
 
 Well i'm just a student , i literally do not have any software related education but planning on getting one. i learnt everything from(`Sololearn`,`php.net`,`w3schools`,`Udemy`)
 
-📫 How to reach me: [Telegram](https://t.me/h1rd3v2)
+📫 Want to reach me:
+
+<a href="https://t.me/h1rdr3v2">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<br>
+
 
 Questions | Answer
 --- | ---
@@ -15,3 +22,5 @@ Questions | Answer
 **Programs i write** | `CLI,Web`
 **Languages Known** | `HTML,CSS,JS,PHP,PYTHON`
 **I'm Learning** | `None currenctly`
+
+![Hard Drive Github Stats](https://github-readme-stats.vercel.app/api?username=h1rdr3v2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
