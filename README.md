@@ -4,6 +4,7 @@
   <a href="https://t.me/h1rdr3v2" align="center">
     <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
+  <br>
   <samp>
     I'm <b>Destiny</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
     <br><br>
@@ -18,7 +19,7 @@
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
 
-<br>
+<br><br>
 
 Questions | Answer
 --- | ---
