@@ -10,8 +10,6 @@
     <br><br>
     I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
     <br><br>
-    I believe in a world where Milkshakes can solve any and all problems :grin:
-    <br><br>
     Well i'm just a student , i literally do not have any software related education but planning on getting one. i learnt everything from(<i>Sololearn,php.net,w3schools,Udemy</i>)
     <br><br>
     i code <b>PHP</b> where insufficient i use <b>PYTHON AND JS</b>
@@ -34,4 +32,4 @@ Questions | Answer
 
 ![Hard Drive Github Stats](https://github-readme-stats.vercel.app/api?username=h1rdr3v2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-**⭐️ From [Hard Drive](https://github.com/TheDudeThatCode)**
+**⭐️ From [Hard Drive](https://github.com/h1rdr3v2)**
