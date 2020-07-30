@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <a href="https://t.me/h1rdr3v2">
-    <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-  </a>
   <br><br>
+  <a href="https://t.me/h1rdr3v2" align="center">
+    <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
   <samp>
     I'm <b>Destiny</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
     <br><br>
@@ -18,8 +18,7 @@
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
 
-<br><br>
-
+<br>
 
 Questions | Answer
 --- | ---
@@ -27,6 +26,8 @@ Questions | Answer
 **Programs i write** | `CLI,Web`
 **Languages Known** | `HTML,CSS,JS,PHP,PYTHON`
 **I'm Learning** | `None currenctly`
+**Interests** | `Ai, ChatBots`
+**OS** | `Kali Linux`:imp:
 
 </p>
 
