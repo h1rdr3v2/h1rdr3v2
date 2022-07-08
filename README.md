@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
-  <a href="https://t.me/h1rdr3v2" align="center">
-    <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-  </a>
   <br>
   <samp>
-    I'm <b>Destiny</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+    I'm <b>Destiny</b>
     <br><br>
     I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
     <br><br>
-    Well i'm just a student , i literally do not have any software related education but planning on getting one. i learnt everything from(<i>Sololearn,php.net,w3schools,Udemy</i>)
+    Well i'm just a student , i literally only have online software related education. i learnt everything from(<i>Sololearn,php.net,w3schools,Udemy</i>)
     <br><br>
     i code <b>PHP</b> where insufficient i use <b>PYTHON AND JS</b>
     <br></br>
