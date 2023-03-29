@@ -5,9 +5,9 @@
     <br><br>
     A senior Back-End Developer
     <br
-    I'm a self-taught Developer(<i>Sololearn,php.net,w3schools,Udemy</i>), Nice to meet you
+    I am a self-taught Developer(<i>Sololearn,php.net,w3schools,Udemy</i>). Nice to meet you!.
     <br>
-    My opinion but i love PHP and i primarily use it but sometimes substitute it with Python and JS sometimes
+    Languages are tools in the hands of the creator
     <br>
     P.S. Would definitely love to chat with you! :v:
   </samp>
