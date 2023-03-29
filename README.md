@@ -4,7 +4,7 @@
     I'm <b>Destiny</b>
     <br><br>
     A senior Back-End Developer
-    <br
+    <br>
     I am a self-taught Developer(<i>Sololearn,php.net,w3schools,Udemy</i>). Nice to meet you!.
     <br>
     Languages are tools in the hands of the creator
