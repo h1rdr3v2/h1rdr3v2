@@ -1,28 +1,25 @@
-<p align="center">
-  <br>
-  <samp>
-    I'm <b>Destiny</b>
-    <br><br>
-    A senior Back-End Developer
-    <br>
-    I am a self-taught Developer(<i>Sololearn,php.net,w3schools,Udemy</i>). Nice to meet you!.
-    <br>
-    Languages are tools in the hands of the creator
-    <br>
-    P.S. Would definitely love to chat with you! :v:
-  </samp>
+<h1 align="left">Hi there!! 👋 </h2>
+<p>Hello i'm Destiny Ezenwata a software engineer and experienced developer who is interested in creating solutions to problems, I'm passionate about teaching and sharing my knowledge through open source contributions. My goal is to create accessible products that are easy for everyone to use. In my free time, I enjoy engaging with communities and helping others learn and grow in software engineering.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h1rdr3v2&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="desmondsanctity" /> </p>
 
-<br><br>
+<h3>⚙️ Expertise</h3>
+<ul>
+<li>Programming Languages: PHP, Python, Node</hi>
+<li>Containerization Tool: Docker</hi>
+<li>Code Repos: GitHub</hi>
+<li>Os: Linux</hi>
+</ul>
 
-Questions | Answer
---- | ---
-**Editor** | `Visual studio code`
-**Programs Writtenn** | `CLI,Web,Chat Bots`
-**Languages Known** | `HTML,CSS,JS,PHP,PYTHON`
-**I'm Learning** | `UI/UX`
-**Interests** | `Ai,App developements`
-**OS** | `Linux`
+<h3>🌱 Learning</h3>
+<ul>
+<li>Vb.net</li>
+</ul>
 
-</p>
+<h3>👯 I’m looking to collaborate on</h3>
+<ul>
+<li>AI & ML</li>
+</ul>
+<h3>🤝 Contributions</h3>
+<p>If you find any issues or bugs in my codes or have any suggestions for improvement, please feel free to create a pull request or issue. Contributions are always welcome!</p>
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=h1rdr3v2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
