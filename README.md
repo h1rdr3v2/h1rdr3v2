@@ -12,6 +12,7 @@
 
 <h3>🌱 Learning</h3>
 <ul>
+<li>Rust</li>
 <li>Vb.net</li>
 </ul>
 
